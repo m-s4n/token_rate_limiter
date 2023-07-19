@@ -1,0 +1,15 @@
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\bin\Debug\net7.0\RateLimiter.exe
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\bin\Debug\net7.0\RateLimiter.deps.json
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\bin\Debug\net7.0\RateLimiter.runtimeconfig.json
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\bin\Debug\net7.0\RateLimiter.dll
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\bin\Debug\net7.0\RateLimiter.pdb
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\obj\Debug\net7.0\RateLimiter.csproj.AssemblyReference.cache
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\obj\Debug\net7.0\RateLimiter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\obj\Debug\net7.0\RateLimiter.AssemblyInfoInputs.cache
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\obj\Debug\net7.0\RateLimiter.AssemblyInfo.cs
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\obj\Debug\net7.0\RateLimiter.csproj.CoreCompileInputs.cache
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\obj\Debug\net7.0\RateLimiter.dll
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\obj\Debug\net7.0\refint\RateLimiter.dll
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\obj\Debug\net7.0\RateLimiter.pdb
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\obj\Debug\net7.0\RateLimiter.genruntimeconfig.cache
+C:\Users\Seymen\Desktop\dersler\c#\RateLimiterOrnek\RateLimiter\obj\Debug\net7.0\ref\RateLimiter.dll
